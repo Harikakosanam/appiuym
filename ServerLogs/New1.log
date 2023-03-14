@@ -1,0 +1,15 @@
+2023-03-14 11:08:33:425 [Appium] Welcome to Appium v2.0.0-beta.57 (REV HEAD)
+2023-03-14 11:08:33:434 [Appium] Non-default server args:
+2023-03-14 11:08:33:440 [Appium] { sessionOverride: true }
+2023-03-14 11:08:33:442 [Appium] Attempting to load driver uiautomator2...
+2023-03-14 11:08:33:445 [Appium] Requiring driver at C:\Users\u\.appium\node_modules\appium-uiautomator2-driver
+2023-03-14 11:08:35:878 [Appium] Appium REST http interface listener started on 0.0.0.0:4723
+2023-03-14 11:08:35:880 [Appium] Available drivers:
+2023-03-14 11:08:35:881 [Appium]   - uiautomator2@2.12.6 (automationName 'UiAutomator2')
+2023-03-14 11:08:35:882 [Appium] No plugins have been installed. Use the "appium plugin" command to install the one(s) you want to use.
+2023-03-14 11:08:35:982 [HTTP] --> GET /status
+2023-03-14 11:08:35:983 [HTTP] {}
+2023-03-14 11:08:35:988 [AppiumDriver@4ab3] Calling AppiumDriver.getStatus() with args: []
+2023-03-14 11:08:35:992 [AppiumDriver@4ab3] Responding to client with driver.getStatus() result: {"build":{"version":"2.0.0-beta.57","git-sha":"HEAD"}}
+2023-03-14 11:08:36:005 [HTTP] <-- GET /status 200 17 ms - 64
+2023-03-14 11:08:36:006 [HTTP] 
